@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SR_CrackerTools", "SR_CrackerTools\SR_CrackerTools.csproj", "{1111F3E9-8409-422B-99C6-62A6B748B01C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base64_Decoder", "Base64_Decoder\Base64_Decoder.csproj", "{17EFE56A-F078-4A6D-95F2-787AF6039B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1111F3E9-8409-422B-99C6-62A6B748B01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1111F3E9-8409-422B-99C6-62A6B748B01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1111F3E9-8409-422B-99C6-62A6B748B01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1111F3E9-8409-422B-99C6-62A6B748B01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EFE56A-F078-4A6D-95F2-787AF6039B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EFE56A-F078-4A6D-95F2-787AF6039B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EFE56A-F078-4A6D-95F2-787AF6039B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EFE56A-F078-4A6D-95F2-787AF6039B60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9C8CB6-4912-43CD-8D15-B2065A6B461D}
+	EndGlobalSection
+EndGlobal
