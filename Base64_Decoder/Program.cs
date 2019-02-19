@@ -24,7 +24,6 @@ namespace Base64_Decoder
             {
                 Console.WriteLine(@"Bad data read. The payload provided was not Base64!");
                 Console.WriteLine(@"Press any button to continue and have a great day.");
-                throw;
             }
 
             Console.ReadLine();
